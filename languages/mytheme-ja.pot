@@ -1,0 +1,15 @@
+#: front-page.php:3
+msgid "search"
+msgstr "検索"
+
+#: front-page.php:5
+msgid "test"
+msgstr "テスト"
+
+#: front-page.php:7
+msgid "検索日本語"
+msgstr "searchja"
+
+#: front-page.php:9
+msgid "テスト日本語"
+msgstr "testja"

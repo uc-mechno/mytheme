@@ -1,0 +1,329 @@
+array (size=17)
+  'index.php' => 
+    array (size=2)
+      0 => 
+        array (size=3)
+          0 => string 'ホーム' (length=9)
+          1 => string 'read' (length=4)
+          2 => string 'index.php' (length=9)
+      10 => 
+        array (size=3)
+          0 => string '更新 <span class="update-plugins count-5"><span class="update-count">5</span></span>' (length=86)
+          1 => string 'update_core' (length=11)
+          2 => string 'update-core.php' (length=15)
+  'upload.php' => 
+    array (size=2)
+      5 => 
+        array (size=3)
+          0 => string 'ライブラリ' (length=15)
+          1 => string 'upload_files' (length=12)
+          2 => string 'upload.php' (length=10)
+      10 => 
+        array (size=3)
+          0 => string '新規追加' (length=12)
+          1 => string 'upload_files' (length=12)
+          2 => string 'media-new.php' (length=13)
+  'edit-comments.php' => 
+    array (size=1)
+      0 => 
+        array (size=3)
+          0 => string 'コメント一覧' (length=18)
+          1 => string 'edit_posts' (length=10)
+          2 => string 'edit-comments.php' (length=17)
+  'edit.php' => 
+    array (size=4)
+      5 => 
+        array (size=3)
+          0 => string '投稿一覧' (length=12)
+          1 => string 'edit_posts' (length=10)
+          2 => string 'edit.php' (length=8)
+      10 => 
+        array (size=3)
+          0 => string '新規追加' (length=12)
+          1 => string 'edit_posts' (length=10)
+          2 => string 'post-new.php' (length=12)
+      15 => 
+        array (size=3)
+          0 => string 'カテゴリー' (length=15)
+          1 => string 'manage_categories' (length=17)
+          2 => string 'edit-tags.php?taxonomy=category' (length=31)
+      16 => 
+        array (size=3)
+          0 => string 'タグ' (length=6)
+          1 => string 'manage_post_tags' (length=16)
+          2 => string 'edit-tags.php?taxonomy=post_tag' (length=31)
+  'edit.php?post_type=page' => 
+    array (size=2)
+      5 => 
+        array (size=3)
+          0 => string '固定ページ一覧' (length=21)
+          1 => string 'edit_pages' (length=10)
+          2 => string 'edit.php?post_type=page' (length=23)
+      10 => 
+        array (size=3)
+          0 => string '新規追加' (length=12)
+          1 => string 'edit_pages' (length=10)
+          2 => string 'post-new.php?post_type=page' (length=27)
+  'edit.php?post_type=daily_contribution' => 
+    array (size=3)
+      5 => 
+        array (size=3)
+          0 => string '地域貢献活動一覧' (length=24)
+          1 => string 'edit_posts' (length=10)
+          2 => string 'edit.php?post_type=daily_contribution' (length=37)
+      10 => 
+        array (size=3)
+          0 => string '新規地域貢献活動' (length=24)
+          1 => string 'edit_posts' (length=10)
+          2 => string 'post-new.php?post_type=daily_contribution' (length=41)
+      15 => 
+        array (size=3)
+          0 => string 'イベントの種類' (length=21)
+          1 => string 'manage_categories' (length=17)
+          2 => string 'edit-tags.php?taxonomy=event&amp;post_type=daily_contribution' (length=61)
+  'themes.php' => 
+    array (size=5)
+      5 => 
+        array (size=3)
+          0 => string 'テーマ <span class="update-plugins count-0"><span class="theme-count">0</span></span>' (length=88)
+          1 => string 'switch_themes' (length=13)
+          2 => string 'themes.php' (length=10)
+      6 => 
+        array (size=5)
+          0 => string 'カスタマイズ' (length=18)
+          1 => string 'customize' (length=9)
+          2 => string 'customize.php?return=%2Fwp-admin%2F' (length=35)
+          3 => string '' (length=0)
+          4 => string 'hide-if-no-customize' (length=20)
+      7 => 
+        array (size=3)
+          0 => string 'ウィジェット' (length=18)
+          1 => string 'edit_theme_options' (length=18)
+          2 => string 'widgets.php' (length=11)
+      10 => 
+        array (size=3)
+          0 => string 'メニュー' (length=12)
+          1 => string 'edit_theme_options' (length=18)
+          2 => string 'nav-menus.php' (length=13)
+      11 => 
+        array (size=4)
+          0 => string 'Theme Check' (length=11)
+          1 => string 'manage_options' (length=14)
+          2 => string 'themecheck' (length=10)
+          3 => string 'Theme Check' (length=11)
+  'plugins.php' => 
+    array (size=3)
+      5 => 
+        array (size=3)
+          0 => string 'インストール済みプラグイン' (length=39)
+          1 => string 'activate_plugins' (length=16)
+          2 => string 'plugins.php' (length=11)
+      10 => 
+        array (size=3)
+          0 => string '新規追加' (length=12)
+          1 => string 'install_plugins' (length=15)
+          2 => string 'plugin-install.php' (length=18)
+      15 => 
+        array (size=3)
+          0 => string 'プラグインファイルエディター' (length=42)
+          1 => string 'edit_plugins' (length=12)
+          2 => string 'plugin-editor.php' (length=17)
+  'users.php' => 
+    array (size=3)
+      5 => 
+        array (size=3)
+          0 => string 'ユーザー一覧' (length=18)
+          1 => string 'list_users' (length=10)
+          2 => string 'users.php' (length=9)
+      10 => 
+        array (size=3)
+          0 => string '新規追加' (length=12)
+          1 => string 'create_users' (length=12)
+          2 => string 'user-new.php' (length=12)
+      15 => 
+        array (size=3)
+          0 => string 'プロフィール' (length=18)
+          1 => string 'read' (length=4)
+          2 => string 'profile.php' (length=11)
+  'tools.php' => 
+    array (size=6)
+      5 => 
+        array (size=3)
+          0 => string '利用可能なツール' (length=24)
+          1 => string 'edit_posts' (length=10)
+          2 => string 'tools.php' (length=9)
+      10 => 
+        array (size=3)
+          0 => string 'インポート' (length=15)
+          1 => string 'import' (length=6)
+          2 => string 'import.php' (length=10)
+      15 => 
+        array (size=3)
+          0 => string 'エクスポート' (length=18)
+          1 => string 'export' (length=6)
+          2 => string 'export.php' (length=10)
+      20 => 
+        array (size=3)
+          0 => string 'サイトヘルス <span class="menu-counter site-health-counter count-3"><span class="count">3</span></span>' (length=109)
+          1 => string 'view_site_health_checks' (length=23)
+          2 => string 'site-health.php' (length=15)
+      25 => 
+        array (size=3)
+          0 => string '個人データのエクスポート' (length=36)
+          1 => string 'export_others_personal_data' (length=27)
+          2 => string 'export-personal-data.php' (length=24)
+      30 => 
+        array (size=3)
+          0 => string '個人データの消去' (length=24)
+          1 => string 'erase_others_personal_data' (length=26)
+          2 => string 'erase-personal-data.php' (length=23)
+  'options-general.php' => 
+    array (size=9)
+      10 => 
+        array (size=3)
+          0 => string '一般' (length=6)
+          1 => string 'manage_options' (length=14)
+          2 => string 'options-general.php' (length=19)
+      15 => 
+        array (size=3)
+          0 => string '投稿設定' (length=12)
+          1 => string 'manage_options' (length=14)
+          2 => string 'options-writing.php' (length=19)
+      20 => 
+        array (size=3)
+          0 => string '表示設定' (length=12)
+          1 => string 'manage_options' (length=14)
+          2 => string 'options-reading.php' (length=19)
+      25 => 
+        array (size=3)
+          0 => string 'ディスカッション' (length=24)
+          1 => string 'manage_options' (length=14)
+          2 => string 'options-discussion.php' (length=22)
+      30 => 
+        array (size=3)
+          0 => string 'メディア' (length=12)
+          1 => string 'manage_options' (length=14)
+          2 => string 'options-media.php' (length=17)
+      40 => 
+        array (size=3)
+          0 => string 'パーマリンク' (length=18)
+          1 => string 'manage_options' (length=14)
+          2 => string 'options-permalink.php' (length=21)
+      45 => 
+        array (size=3)
+          0 => string 'プライバシー' (length=18)
+          1 => string 'manage_privacy_options' (length=22)
+          2 => string 'options-privacy.php' (length=19)
+      46 => 
+        array (size=4)
+          0 => string 'Duplicate Post' (length=14)
+          1 => string 'manage_options' (length=14)
+          2 => string 'duplicatepost' (length=13)
+          3 => string 'Duplicate Post 設定' (length=21)
+      47 => 
+        array (size=4)
+          0 => string '並び替え設定' (length=18)
+          1 => string 'manage_options' (length=14)
+          2 => string 'hicpo-settings' (length=14)
+          3 => string '並び替え設定' (length=18)
+  'edit-tags.php?taxonomy=link_category' => 
+    array (size=1)
+      15 => 
+        array (size=3)
+          0 => string 'リンクカテゴリー' (length=24)
+          1 => string 'manage_categories' (length=17)
+          2 => string 'edit-tags.php?taxonomy=link_category' (length=36)
+  'wpcf7' => 
+    array (size=3)
+      0 => 
+        array (size=4)
+          0 => string 'コンタクトフォーム <span class="update-plugins 1"><span class="plugin-count">1</span></span>' (length=101)
+          1 => string 'wpcf7_read_contact_forms' (length=24)
+          2 => string 'wpcf7' (length=5)
+          3 => string 'コンタクトフォームの編集' (length=36)
+      1 => 
+        array (size=4)
+          0 => string '新規追加' (length=12)
+          1 => string 'wpcf7_edit_contact_forms' (length=24)
+          2 => string 'wpcf7-new' (length=9)
+          3 => string 'コンタクトフォームを追加' (length=36)
+      2 => 
+        array (size=4)
+          0 => string 'インテグレーション' (length=27)
+          1 => string 'wpcf7_manage_integration' (length=24)
+          2 => string 'wpcf7-integration' (length=17)
+          3 => string '外部 API とのインテグレーション' (length=44)
+  'edit.php?post_type=acf-field-group' => 
+    array (size=3)
+      0 => 
+        array (size=4)
+          0 => string 'フィールドグループ' (length=27)
+          1 => string 'manage_options' (length=14)
+          2 => string 'edit.php?post_type=acf-field-group' (length=34)
+          3 => string 'フィールドグループ' (length=27)
+      1 => 
+        array (size=4)
+          0 => string '新規追加' (length=12)
+          1 => string 'manage_options' (length=14)
+          2 => string 'post-new.php?post_type=acf-field-group' (length=38)
+          3 => string '新規追加' (length=12)
+      2 => 
+        array (size=4)
+          0 => string 'ツール' (length=9)
+          1 => string 'manage_options' (length=14)
+          2 => string 'acf-tools' (length=9)
+          3 => string 'ツール' (length=9)
+  'toriaezu_menu' => 
+    array (size=2)
+      0 => 
+        array (size=4)
+          0 => string 'サブメニュー①' (length=21)
+          1 => string 'manage_options' (length=14)
+          2 => string 'toriaezu_menu' (length=13)
+          3 => string 'サブメニュー①です' (length=27)
+      1 => 
+        array (size=4)
+          0 => string 'サブメニュー②' (length=21)
+          1 => string 'manage_options' (length=14)
+          2 => string 'toriaezu_submenu2' (length=17)
+          3 => string 'サブメニュー②' (length=21)
+  'ai1wm_export' => 
+    array (size=4)
+      0 => 
+        array (size=4)
+          0 => string 'エクスポート' (length=18)
+          1 => string 'export' (length=6)
+          2 => string 'ai1wm_export' (length=12)
+          3 => string 'エクスポート' (length=18)
+      1 => 
+        array (size=4)
+          0 => string 'インポート' (length=15)
+          1 => string 'import' (length=6)
+          2 => string 'ai1wm_import' (length=12)
+          3 => string 'インポート' (length=15)
+      2 => 
+        array (size=4)
+          0 => string 'バックアップ <span class="ai1wm-menu-count " title="バックアップファイル 1">1</span>' (length=100)
+          1 => string 'import' (length=6)
+          2 => string 'ai1wm_backups' (length=13)
+          3 => string 'バックアップ' (length=18)
+      3 => 
+        array (size=4)
+          0 => string '新機能 <span class="ai1wm-icon-bullhorn" title="通知設定"></span>' (length=72)
+          1 => string 'import' (length=6)
+          2 => string 'ai1wm_whats_new' (length=15)
+          3 => string '新機能' (length=9)
+  'edit.php?post_type=smart-custom-fields' => 
+    array (size=2)
+      0 => 
+        array (size=4)
+          0 => string 'Smart Custom Fields' (length=19)
+          1 => string 'manage_options' (length=14)
+          2 => string 'edit.php?post_type=smart-custom-fields' (length=38)
+          3 => string 'Smart Custom Fields' (length=19)
+      1 => 
+        array (size=4)
+          0 => string '新規追加' (length=12)
+          1 => string 'manage_options' (length=14)
+          2 => string 'post-new.php?post_type=smart-custom-fields' (length=42)
+          3 => string '新規追加' (length=12)
